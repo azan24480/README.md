@@ -1,2 +1,23 @@
 # README.md
-# Trust Wallet Pentest This repository contains scripts and resources for security testing of Trust Wallet addresses and seed phrases.  ## Structure - `addresses/`: Contains target and generated addresses. - `seed_phrases/`: Contains seed phrases and cracked resulted.
+
+trust-wallet-pentest/
+│
+├── addresses/
+│   ├── target_addresses.txt
+│   └── generated_addresses.txt
+│
+├── seed_phrases/
+│   ├── seed_list.txt
+│   └── cracked_seeds.txt
+│
+├── scripts/
+│   ├── address_generator.py
+│   ├── seed_cracker.py
+│   └── utils.py
+│
+├── results/
+│   ├── found_seeds.txt
+│   └── report.txt
+│
+├── README.md
+└── requirements.txt
