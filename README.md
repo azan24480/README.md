@@ -49,4 +49,5 @@ def main():
         crack_seed(address)
 
 if __name__ == "__main__":
-    main()
+    main()apple banana cherry dog elephant frog grape horse ice jelly kiwi
+orange pear queen rabbit snake tiger umbrella violin whale xray yellow
